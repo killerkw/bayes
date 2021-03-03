@@ -1,0 +1,33 @@
+Return-Path: <chi@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i9R5buXd023539
+	for <fan@ccert.edu.cn>; Wed, 27 Oct 2004 13:37:56 +0800 (CST)
+Received: (eyou send program); Wed, 27 Oct 2004 13:23:20 +0800
+Message-ID: <298854600.03396@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 27 Oct 2004 13:23:20 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 27 Oct 2004 05:23:16 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.50.6)
+  by localhost with SMTP; 27 Oct 2004 05:23:16 -0000
+Message-ID: <021201c4bbe7$15d64560$063270ca@sony>
+From: "chi" <chi@tsinghua.edu.cn>
+To: fan@ccert.edu.cn
+References: <298854409.03695@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6INf2c3VzdGFpbmVkIGVuZ2luZWVyaW5nu/LV38u1U29mdHdhcmUgRGV2ZWxvcG1lbnQgRW5n
+aW4=?=
+Date: Wed, 27 Oct 2004 13:37:43 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_020F_01C4BC2A.232FCCC0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: 0;$"!%+5!![-<!!`Wl!!
+
+想起我前两天听到的一个评语，
+“人人都觉得自己的工作很重要”，呵呵。
+: 对这个职业不太了解，招我的人介绍说其任务是弄清楚一个大型软件，然后根据市场和技术支持部门从企业用户那里收集来的bug去改进代码，然后进行回归测试。大量的工作将是测试，但不是手工测试，而是编写程序在平台上进行自动测试。他们说这个工作需要了解整个产品，以及?: 不知各位大虾觉得怎么样？做这个有前途吗？请尽管从各种角度发表些见解，谢谢！
+
